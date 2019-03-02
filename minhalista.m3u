@@ -58,9 +58,7 @@ http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2 AD Sports
-",2 AD Sports
-
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title=""2 AD Sports
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Noticias",CNN
