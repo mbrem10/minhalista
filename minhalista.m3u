@@ -16,13 +16,11 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="", VH1 MEGAHITS
 http://stream.1music.hu/stream/1music.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpdqTfb.png?1" group-title="",FOX HITS
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="",TV UNIÃO HD RN
 http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
