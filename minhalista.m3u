@@ -60,11 +60,6 @@ http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2 AD Sports
-",2 AD Sports
-
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Noticias",CNN
  CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
@@ -92,3 +87,15 @@ http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Sky life TG24
 
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAL ABERTO CARLOS",RECORD NEWS HD ES
+
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Desporto",ALL Sports
+
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="DOCUMENTARIOS",HISTORY LAB
+
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
