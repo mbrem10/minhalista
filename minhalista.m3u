@@ -1,9 +1,5 @@
 #EXTM3U
 
-#PLAYLISTV: pltv-logo"https://i.imgur.com/aENCUAZ.jpg" pltv-name="BREM-TV" pltv-description="Lista Exclusivamente Grátis, Lista Idela para o Aplicativo PlaylisTV" pltv-cover="    https://i.imgur.com/aENCUAZ.jpg" pltv-author="Giovane Andrade" pltv-site="http://listasiptvelite.blogspot.com " pltv-email="giovaneiptvelite@gmail.com"
-
-#EXTM3U
-
 #EXTINF:0tvg-logo="https://image.slidesharecdn.com/apresentacaotvescola-131023125750-phpapp02/95/apresentao-tv-escola-1-638.jpg?cb=1382533112" group-title="",TV ESCOLA
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
 
