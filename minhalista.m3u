@@ -16,11 +16,13 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gQ4GDzQ.png" group-title="", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8BCGkxt.png?1" group-title="", VH1 MEGAHITS
 http://stream.1music.hu/stream/1music.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpdqTfb.png?1" group-title="",FOX HITS
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="",TV UNIÃO HD RN
 http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
@@ -58,8 +60,35 @@ http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Qc1hM0u.jpg" group-title="",SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title=""2 AD Sports
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="2 AD Sports
+",2 AD Sports
+
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Noticias",CNN
+ CHILE
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Sem grupo",CANAL 24 HORAS
+
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Itália",RAI Movie (Itália)
+
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Noticias",CBS News (Opt-1)
+
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="MUSICA",Planeta HD
+
+http://84.43.207.130/planetahd/planetahd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="TV/ESPORTES",TSN
+
+http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="Notícias",Sky life TG24
+
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8?
