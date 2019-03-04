@@ -118,15 +118,12 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="NOTICIAS",TV5 MONDE
-
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="NOTICIAS",RUSSIA TODAY
-
 http://rt-esp.secure.footprint.net/1102-inadv-qidx-1k_v5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="NOTICIAS",FRANCE 24 
-
 http://f24hls-i.akamaihd.net/hls/live/520844/F24_ES_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="NOTICIAS",CNN
@@ -148,11 +145,9 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_b1848000.m3u8
 http://paramount.live.flumotion.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",DKISS
-
 https://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="NOTICIAS",RTP INTERNACIONAL
-
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="ADULTO",TV CLIMA
