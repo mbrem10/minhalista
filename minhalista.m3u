@@ -156,6 +156,9 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIOSO",Boa Vontade TV
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="ESPORTES" tvg-logo="https://oregonmtbcollective.files.wordpress.com/2013/09/20130915-123838.jpg",Red Bull TV - SD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_578.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="ADULTO",TV CLIMA
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
 
