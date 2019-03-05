@@ -170,3 +170,9 @@ https://sa-all16.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1568913245.m3
 
 #EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2013/05/180-logo-peq1.png" group-title="INTERNACIONAL CARLOS", CANAL 180 HD
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8?
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/arirang.png" group-title="NOTICIAS",Arirang (Koreia do Sul)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.homemdeaco.xpg.com.br/superhqs//tv/canais/canais-de-tv/canal-26-hd-argentina.png" group-title="NOTICIAS",CANAL 26 HD - ARGENTINA
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
