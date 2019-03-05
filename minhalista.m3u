@@ -185,3 +185,9 @@ https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/pu
 
 #EXTINF:-1 tvg-logo="http://channels.roku.com/images/ada797bdcc2a41f68b7741ea9edc98a3-hd.png" tvg-id="0" group-title="FILMES",CLASSIQUE TV-BR
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oULuBB2.png?1" group-title="FILMES", TV ARACATI BR
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+
+#EXTINF:-1 tvg-logo="https://netshowme.s3.amazonaws.com/uploads/user/avatar/70271/thumb_arte_ficha_apresentadora01.jpg" tvg-id="0" group-title="FILMES",TV CARIOCA.NET SD (Filmes e Musicas)
+http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w1592693156.m3u8
