@@ -39,8 +39,11 @@ http://173.236.10.10:1935/rbtv/rbtv/chunklist_w158077684.m3u8
 #EXTINF:0 type="stream" channelId="893" group-title="EDUCATIVOS", CGTN documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:0 type="stream" channelId="363" group-title="NOTICIAS", al jazeera
+#EXTINF:0 type="stream" channelId="363" group-title="NOTICIAS", ALJAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/aljazeeradoc.png" group-title="EDUCATIVOS", ALJAZEERA DOCUMENTARIOS
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
 #EXTINF:0 type="stream" channelId="397" group-title="VARIEDADES",NHK
 http://b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index_1180.m3u8
