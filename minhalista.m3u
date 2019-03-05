@@ -18,6 +18,9 @@ http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GpdqTfb.png?1" group-title="MUSICA",FOX HITS
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 
+#EXTINF:-1 $ExtFilter="CINEPLAY | Filmes" group-title="NOTICIAS" tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg",FOX 23 HD - USA
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/1864k/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png" group-title="VARIEDADES",TV UNIÃO HD RN
 http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
 
