@@ -150,6 +150,12 @@ https://kissfm-cires21-video.secure.footprint.net/dkiss/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="NOTICIAS",RTP INTERNACIONAL
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="RELIGIOSO",Boa Vontade TV
+http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8?PEDROJUNIORTUTORIAIS
+
 #EXTINF:-1 tvg-logo="http://www.tvclima.com/images/logo_tv.png" group-title="ADULTO",TV CLIMA
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8
 
