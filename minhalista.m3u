@@ -206,3 +206,6 @@ http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-V_6TR4mLNW4/Wrk378enD2I/AAAAAAAAxDM/qQrFpbOEN4IHgrxGW7sEQFuCXuI5eRvkgCLcBGAs/s1600/logo-fox-premium.png" group-title="VARIEDADES",TV Diário 
 https://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES",TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
