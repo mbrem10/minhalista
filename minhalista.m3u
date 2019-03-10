@@ -209,3 +209,6 @@ https://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES",TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",AUTO MOTO TV
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
