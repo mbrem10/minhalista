@@ -212,3 +212,51 @@ https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",AUTO MOTO TV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zj4BzR5.png" group-title="VARIEDADES", TV JSID
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",Discovery Channel Internacional
+http://80.80.160.168/live/8/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="MUSICA",HIT Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORT TV 2 HD Portugal
+https://185-125-230-172.livesports24.online/portugalsport2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORT TV 3 HD Portugal
+http://185-125-230-172.livesports24.online/sport3tvpt.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="MUSICA", M2O HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="MUSICA",TV Transamérica
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="MUSICA",NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/plylist.m3u8?CANALANDRONALTAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",1 ad Sports HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",2 ad Sports HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+a#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",Major League Baseball
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="FILMES",GOSPEL MOVIE TELEVISION
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="VARIEDADES",INTERNAUTA TV
+http://stmv1.srvsite.com/luisbaptista343/luisbaptista343/playlist.m3u8?wowzasessionid=204516109
+
+
+
