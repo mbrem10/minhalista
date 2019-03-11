@@ -210,7 +210,7 @@ http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8?CANALANDRONALTAS
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",Discovery Channel Internacional
 http://80.80.160.168/live/8/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",Animal Planet
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="ESPORTES",SPORT TV 2 HD Portugal
