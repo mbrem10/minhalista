@@ -254,3 +254,6 @@ http://stmv1.srvsite.com/luisbaptista343/luisbaptista343/playlist.m3u8?wowzasess
 
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="MUSICA",GEN TV
 http://wse5.player.tv.br:1935/evento1/evento1_720p/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="EDUCATIVOS",DISCOVERY SCIENCE HD
+http://br.e-tv.xyz/DISCOVERY_SCIENCE_HD/video.m3u8?token=cw3bU4Gg63
